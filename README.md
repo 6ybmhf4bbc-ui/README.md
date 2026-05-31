@@ -1,31 +1,18 @@
 # README.md
-Central documentation repository for Whiteglass projects, standards, architecture, policies, and roadmaps.
-Whiteglass Documentation
+# Whiteglass Documentation
 
-Overview
+Welcome to the official Whiteglass documentation repository.
 
-This repository contains official documentation for Whiteglass and its related initiatives.
+## Mission
 
-The purpose of this repository is to provide a single source of truth for project planning, architecture, security standards, policies, development guidelines, and future roadmaps.
+To build technology that protects, empowers, and serves humanity through cybersecurity, artificial intelligence, and ethical innovation.
 
-Contents
+## Repositories
 
-* Mission & Vision
-* Project Roadmaps
-* Security Standards
-* Architecture Documents
-* Product Specifications
-* Development Guidelines
-* Community Policies
+- whiteglass-website
+- holy-ai
+- whiteglass-docs
 
-Objectives
+## Status
 
-* Maintain clear documentation.
-* Support collaboration.
-* Improve transparency.
-* Track project progress.
-* Establish consistent standards.
-
-Status
-
-Active Development
+Active Development 🚀
